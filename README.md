@@ -1,2 +1,4 @@
-![](https://metrics.lecoq.io/chl-wxp?template=classic&base.activity=1)
-![](https://metrics.lecoq.io/chl-wxp?template=classic&base.activity=1&plugin_contributions=1)
+## 📊 GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chl-wxp&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chl-wxp&theme=github)
