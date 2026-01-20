@@ -1,4 +1,4 @@
 ## 📊 GitHub Stats
-
-![Metrics](https://metrics.lecoq.io/chl-wxp)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chl-wxp&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chl-wxp&theme=github)
 
