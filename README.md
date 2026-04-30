@@ -1,1 +1,0 @@
-![](https://metrics.lecoq.io/chl-wxp?template=classic&base.activity=1&plugin_contributions=1&plugin_followup=1&plugin_isocalendar=1)
